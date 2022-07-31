@@ -1,4 +1,5 @@
-0x08 - Python - More Classes and Objects
+0x08 - Python - More Classes and Objects 
+
 At the end of this project, I am expected to be able to explain to anyone, without the help of Google:
 
 Why Python programming is awesome
@@ -26,4 +27,4 @@ How to dynamically create arbitrary new attributes for existing instances of a c
 How to bind attributes to object and classes
 What is and what does contain __dict__ of a class and of an instance of a class
 How does Python find the attributes of an object or class
-How to use the getattr functio
+How to use the getattr function
